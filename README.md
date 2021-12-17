@@ -17,14 +17,17 @@ input each and every character.The arrows are analyzed and are removed according
 We address these problems into three major components :
 
 1.pcinfo
+
 2.findall
+
 3.manager
 
 
 The following libraries are also required to ensure proper functioning of the application :
 
-sudo apt install graphicsmagick-imagemagick-compat  # version 1.4+really1.3.36+hg16481-1, or
+sudo apt install graphicsmagick-imagemagick-compat  # version 1.4+really1.3.36+hg16481-1
+
 sudo apt install imagemagick-6.q16                  # version 8:6.9.11.60+dfsg-1ubuntu1
+
 sudo apt install imagemagick-6.q16hdri              # version 8:6.9.11.60+dfsg-1ubuntu1
-sudo apt install mailutils
 

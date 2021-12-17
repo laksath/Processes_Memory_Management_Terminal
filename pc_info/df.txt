@@ -1,0 +1,8 @@
+Filesystem     1K-blocks     Used Available Use% Mounted on
+tmpfs             607800     1588    606212   1% /run
+/dev/sda3       81525176 22883248  54457660  30% /
+tmpfs            3038996    82556   2956440   3% /dev/shm
+tmpfs               5120        4      5116   1% /run/lock
+/dev/sda2         524252     5344    518908   2% /boot/efi
+tmpfs             607796     1344    606452   1% /run/user/1000
+/dev/sr0           59642    59642         0 100% /media/laksath/VBox_GAs_6.1.26
